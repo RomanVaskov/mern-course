@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "nba fifa uefa",
+  "mongoUrl": "mongodb+srv://roman:roman12345@cluster0-f4x6q.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
